@@ -1,11 +1,15 @@
 
-## 👋 Hi, I'm Riccardo Conti  
-
-- 🎓 I earned my **Master’s degree in Management Engineering (2025)** from **La Sapienza University of Rome**, where I developed a strong foundation in **data analysis, product management, and digital strategy**.  
-- 🚀 I’m passionate about the intersection of **technology, design and strategic business decision-making** and how data-driven insights can turn innovative ideas into impactful products, combining analytical thinking with creativity. 
-- 🧠 **Data Analysis Skills**: Python, A/B testing, Excel, SQL, Tableau, Power BI
-- 🧩 **Project & Product Management Skills**: Agile, Jira, roadmap planning, KPI monitoring,  
-- 🌱 I’m currently learning Spark, Azure and SwiftUI
+## About  
+- 🎓 I hold a **Master’s degree in Management Engineering (2025)** from **La Sapienza University of Rome**, with a strong foundation in **quantitative financial modeling, applied machine learning, and data-driven analysis**.  
+- 🚀 My focus sits at the intersection of **finance and artificial intelligence**: from quantitative modeling and financial forecasting to the design of AI-powered agents and automation pipelines. I build across the full spectrum of applied AI: whether that means training a deep learning model on financial time-series, architecting a RAG system over financial documents, or deploying autonomous agents that reason over structured market data.
+## Core Competencies
+- 🧩 **Quantitative Finance & Modeling**:
+Time-series analysis (ARIMA, Logistic Regression) · Volatility modeling (GARCH) · Monte Carlo simulation · Asset pricing · Financial statement analysis · Scenario & sensitivity analysis · Financial econometrics 
+- 🧠 **AI Engineering & Automation**
+Deep learning (LSTM, Graph Neural Networks) · AI agents & workflow automation (Pydantic AI, n8n) · Retrieval-Augmented Generation (RAG) · Model validation & backtesting · NLP for financial text
+- 🌱 **Data & Engineering**
+Python · Excel · Git · VS Code · FastAPI · UV · SQL · Streamlit · Tableau · Google Cloud 
+· KPI monitoring · Power BI · A/B testing · Azure · BigQuery 
 - 📫 How to reach me: c.riccardo237@gmail.com
 
 ---
