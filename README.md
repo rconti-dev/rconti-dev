@@ -1,26 +1,31 @@
 
 ## About  
-- 🎓 I hold a **Master’s degree in Management Engineering (2025)** from **La Sapienza University of Rome**, with a strong foundation in **quantitative financial modeling, applied machine learning, and data-driven analysis**.  
-- 🚀 My focus sits at the intersection of **finance and artificial intelligence**: from quantitative modeling and financial forecasting to the design of AI-powered agents and automation pipelines. I build across the full spectrum of applied AI: whether that means training a deep learning model on financial time-series, architecting a RAG system over financial documents, or deploying autonomous agents that reason over structured market data.
+- 🎓 I hold a **Master’s degree in Management Engineering (2025)** from **Sapienza University of Rome**, specializing in **data-driven product analytics and quantitative financial modeling.**  
+- 🚀 My focus sits at the intersection of **FinTech, digital products, and decision economics**: building analytical and predictive frameworks that balance revenue growth, risk mitigation, and customer retention. Whether I'm modeling unit economics, designing A/B experiments, or building pipelines, I focus on turning complex data into profitable product decisions.
+
 ## Core Competencies
-- 🧩 **Quantitative Finance & Modeling**:
-Time-series analysis (ARIMA, Logistic Regression) · Volatility modeling (GARCH) · Monte Carlo simulation · Asset pricing · Financial statement analysis · Scenario & sensitivity analysis · Financial econometrics 
-- 🧠 **AI Engineering & Automation**
-Deep learning (LSTM, Graph Neural Networks) · AI agents & workflow automation (Pydantic AI, n8n) · Retrieval-Augmented Generation (RAG) · Model validation & backtesting · NLP for financial text
-- 🌱 **Data & Engineering**
-Python · Excel · Git · VS Code · FastAPI · UV · SQL · Streamlit · Tableau · Google Cloud 
-· KPI monitoring · Power BI · A/B testing · Azure · BigQuery 
+- 📊 **Product & Growth Analytics**:
+A/B testing & experimentation · Unit economics & SaaS/e-commerce metrics (LTV, CAC, Retention, Churn) · Hypothesis testing & power analysis · Funnel & cohort analysis · Competitive analysis & market research
+- 💳 **FinTech, Risk & Financial Modeling**:
+Applied machine learning & classification · Probability calibration & cost-sensitive thresholding · Fraud & transaction risk modeling · Financial forecasting & scenario analysis 
+- ⚙️ **Tech Stack & Engineering**:
+Python · SQL · BigQuery · Pandas · Scikit-Learn · Looker · UV · Tableau · Git · Excel
+
 - 📫 How to reach me: c.riccardo237@gmail.com
 
 ---
 
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
- ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-%234285F4.svg?style=for-the-badge&logo=looker&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-✨ *“Turning data and technology into strategic growth.”*
+✨ *“Turning data and unit economics into strategic product growth.”*
+
